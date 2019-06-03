@@ -1,5 +1,9 @@
+
 Dit is Java code
 aangepast
 Mijn aaanpassing
 Mijn 2e aanpassing
 Ik wil dit bestand houden
+
+Word je .git hier al een beetje warrig van Ray?
+Helemaal
